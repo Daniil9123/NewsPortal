@@ -52,7 +52,7 @@ class database {
         return $response;
     }
 
-    function execute($query) {
+    function executeRun($query) {
         $response = $this->conn->exec($query);
         return $response;
     }

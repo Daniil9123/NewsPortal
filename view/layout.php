@@ -36,6 +36,6 @@
     </div>
 </section>
     <hr>
-    <p style="display:block; text-align:center;">JPTVR18 2019 a. &copy;</p>
+    <p style="display:block; text-align:center;">JKTV24 2025 a. &copy;</p>
 </body>
 </html>
