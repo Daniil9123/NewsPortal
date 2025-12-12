@@ -49,6 +49,6 @@ class Controller {
     //ссылка - переход к списку комментариев
     public static function CommentsCountWithAncor($newsid) {
         $arr = Comments::getCommentsCountByNewsId($newsid);
-        ViewComments::CommentsCountWithAnchor($arr);
+        ViewComments::CommentsCountWithAncor($arr);
     }
 }

@@ -18,7 +18,7 @@ class ViewComments {
         }
     }
 
-    public static function CommentsCountWithAnchor($value) {
+    public static function CommentsCountWithAncor($value) {
         if ($value['count']>0)
         echo '<b><a href="#ctable"/> ('.$value['count'].') </a></b>';
     }
